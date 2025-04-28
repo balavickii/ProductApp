@@ -14,7 +14,7 @@
 
 | Home Page | Search Feature |
 |:---------:|:--------------:|
-| ![Homepage](./assets/homepage.png) | ![Search Feature](./assets/search.png) |
+| ![Homepage](./assets/Screenshot%202025-04-28%20140637.png) | ![Search Feature](./assets/Screenshot%202025-04-28%20140707.png) |
 
 > _Place your screenshots inside an `/assets/` folder and link them here!_
 
@@ -182,9 +182,9 @@ See the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
-- **Your Name** — [GitHub](https://github.com/balavickii)
-- 📧 Email: your-vbala4055.com
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- **Balavignesh** — [GitHub](https://github.com/balavickii)
+- 📧 Email: your-vbala4055@gmail.com
+- 🌐 Portfolio: [your-portfolio-link.com](https://joyful-custard-964fcf.netlify.app/)
 
 ---
 
