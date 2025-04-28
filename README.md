@@ -2,11 +2,7 @@
 
 > A lightweight web application to **search and display products** using the [Fake Store API](https://fakestoreapi.com/).
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/product-app?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/your-username/product-app?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/your-username/product-app?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/your-username/product-app?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)
+
 
 ---
 
